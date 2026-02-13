@@ -11,7 +11,7 @@
 <h1 align="center">🗺️ Welcome to Ascension Island</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack em evolução | Java & Python | Automação | Sistemas de Vendas
+  Desenvolvedor Fullstack em evolução | Java & Python | Automação | Sistemas de Vendas | IA
 </p>
 
 ---
