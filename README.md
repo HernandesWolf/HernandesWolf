@@ -8,7 +8,7 @@
   <img src="assets/avatar/avatar-circle.png" alt="Hernandes Avatar" width="150" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou Hernandes</h1>
+<h1 align="center">👋 Welcome to Ascension Island</h1>
 
 <p align="center">
   Desenvolvedor Fullstack em evolução | Java & Python | Automação | Sistemas de Vendas
