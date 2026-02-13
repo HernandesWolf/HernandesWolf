@@ -26,6 +26,11 @@ Hoje estou focado em:
 - Projetos profissionais e freelancing
 - Automação para produtividade
 - Estruturas sólidas e escaláveis para o futuro
+- Inteligência Artificial aplicada ao dia a dia
+- LLMs (Large Language Models)
+- Automações inteligentes e agentes autônomos
+- Integração de IA a sistemas reais (APIs, pipelines, microserviços)
+
 
 ---
 
