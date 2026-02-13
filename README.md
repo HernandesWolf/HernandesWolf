@@ -1,16 +1,83 @@
-## Hi there 👋
+<!-- Banner do Perfil -->
+<p align="center">
+  <img src="assets/banner/banner-readme.png" alt="Banner Hernandes" width="100%" />
+</p>
 
-<!--
-**HernandesWolf/HernandesWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Avatar -->
+<p align="center">
+  <img src="assets/avatar/avatar-circle.png" alt="Hernandes Avatar" width="150" style="border-radius: 50%;" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">👋 Olá, eu sou Hernandes</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Desenvolvedor Fullstack em evolução | Java & Python | Automação | Sistemas de Vendas
+</p>
+
+---
+
+## 🚀 Sobre mim
+Sou um desenvolvedor em constante evolução, apaixonado por criar sistemas úteis — principalmente soluções que realmente melhoram a vida de pessoas e pequenos negócios.
+
+Hoje estou focado em:
+
+- Desenvolvimento **Java** e **Python**
+- Construção de **SaaS** (atualmente: Sistema de Vendas e Estoque)
+- Projetos profissionais e freelancing
+- Automação para produtividade
+- Estruturas sólidas e escaláveis para o futuro
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="assets/extras/tech-stack.png" width="700" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="assets/extras/github-stats.png" width="700" />
+</p>
+
+---
+
+## 📁 Projetos em Destaque
+
+### 🔹 Sistema de Vendas e Estoque (SaaS)
+Sistema que desenvolvo em **Java**, com foco em pequenos negócios e vendedores autônomos.  
+Inclui cadastro de clientes, produtos, controle de estoque, vendas e relatórios.
+
+🔗 *Link do repositório será adicionado aqui.*
+
+---
+
+## ✨ Sobre meus conteúdos
+<p align="center">
+  <img src="assets/extras/content-card.png" width="700" />
+</p>
+
+Produzo conteúdo sobre:
+
+- Programação
+- Tecnologia
+- Projetos reais
+- Evolução pessoal aplicada ao trabalho
+- Racionalidade e mentalidade crítica
+
+---
+
+## 📫 Como falar comigo
+- 💼 Linkedin: https://www.linkedin.com/in/jussier-ernandes  
+- 🐺 GitHub: https://github.com/HernandesWolf  
+- 📹 Em breve: Conteúdos no YouTube  
+- 📧 Email para contato profissional: *(adicionar quando desejar)*
+
+---
+
+<p align="center">
+  <img src="assets/extras/about-card.png" width="700" />
+</p>
+
+<p align="center">🚀 Construindo meu futuro, um commit por vez.</p>
