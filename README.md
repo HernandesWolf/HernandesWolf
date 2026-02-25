@@ -67,12 +67,6 @@ Hoje estou focado em:
 
 ---
 
-## 📊 GitHub Stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HernandesWolf=anuraghazra&show_icons=true)
----
-
 ## 📁 Projetos em Destaque
 
 ### 🔹 Sistema de Vendas e Estoque (SaaS)
