@@ -99,7 +99,7 @@ Produzo conteúdo sobre:
 ---
 
 ## 📫 Como falar comigo
-- 💼 Linkedin: https://www.linkedin.com/in/jussier-ernandes  
+- 💼 Linkedin: [ https://www.linkedin.com/in/jussier-ernandes  ](https://www.linkedin.com/in/hernandes-j-barboza-a455232b5/)
 - 🐺 GitHub draft: https://github.com/HernandesLobo   
 - 📧 Email para contato profissional: jussier30_04@hotmail.com
 - 📹 Em breve: Conteúdos no YouTube
