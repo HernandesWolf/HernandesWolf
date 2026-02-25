@@ -74,7 +74,7 @@ Produzo conteúdo sobre:
 - 💼 Linkedin: https://www.linkedin.com/in/jussier-ernandes  
 - 🐺 GitHub draft: https://github.com/HernandesLobo  
 - 📹 Em breve: Conteúdos no YouTube  
-- 📧 Email para contato profissional: *(adicionar quando desejar)*
+- 📧 Email para contato profissional: jussier30_04@hotmail.com
 
 ---
 
