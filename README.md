@@ -69,8 +69,8 @@ Hoje estou focado em:
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HernandesWolf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HernandesWolf=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
