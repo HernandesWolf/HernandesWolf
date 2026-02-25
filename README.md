@@ -69,13 +69,8 @@ Hoje estou focado em:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HernandesWolf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HernandesWolf&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernandesWolf&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
