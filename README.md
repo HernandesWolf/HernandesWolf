@@ -1,6 +1,6 @@
 <!-- Banner do Perfil -->
 <p align="center">
-  <img src="assets/banner/banner-readme.png" alt="Banner Hernandes" width="100%" />
+  <img src="https://raw.githubusercontent.com/HernandesWolf/HernandesWolf/main/unnamed.jpg" width="100%" />
 </p>
 
 <!-- Avatar -->
