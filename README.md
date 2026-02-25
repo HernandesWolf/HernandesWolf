@@ -3,10 +3,7 @@
   <img src="https://raw.githubusercontent.com/HernandesWolf/HernandesWolf/main/unnamed.jpg" width="100%" />
 </p>
 
-<!-- Avatar -->
-<p align="center">
-  <img src="assets/avatar/avatar-circle.png" alt="Hernandes Avatar" width="150" style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">🗺️ Welcome to Ascension Island</h1>
 
