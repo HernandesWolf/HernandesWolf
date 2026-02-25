@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Developer
 Sou um desenvolvedor em constante evolução, apaixonado por criar sistemas úteis — principalmente soluções que realmente melhoram a vida de pessoas e negócios reais.
 
 Hoje estou focado em:
