@@ -69,7 +69,7 @@ Hoje estou focado em:
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HernandesWolf&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HernandesWolf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
