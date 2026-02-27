@@ -101,7 +101,7 @@ Produzo conteúdo sobre:
 ---
 
 <p align="center">
-  <img src="assets/extras/about-card.png" width="700" />
+  <img src="Gemini_Generated_Image_lgngw4lgngw4lgng.png" width="800" alt="Banner Final" />
 </p>
 
-<p align="center">🚀 Construindo meu futuro, um commit por vez.</p>
+<p align="center">🚀 Construindo o futuro, um commit de cada vez.</p>
