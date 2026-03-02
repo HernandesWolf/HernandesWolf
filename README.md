@@ -79,7 +79,7 @@ O sistema automatiza tarefas operacionais do dia a dia — desde a coleta e orga
 ![Contribuições](https://img.shields.io/badge/contribuições-bem%20vindas-brightgreen)
 
 
-🔗 *Em breve o Link do repositório aqui.*
+🔗 [Link] (https://github.com/HernandesWolf/Restaurante-landing-page)
 
 ---
 
