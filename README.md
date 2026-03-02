@@ -79,16 +79,9 @@ Inclui cadastro de clientes, produtos, controle de estoque, vendas e relatórios
 
 ## ✨ Sobre meus conteúdos
 <p align="center">
-  <img src="assets/extras/content-card.png" width="700" />
+  <img src="markdownimage.jpg" width="700" />
 </p>
 
-Produzo conteúdo sobre:
-
-- Programação
-- Tecnologia
-- Projetos reais
-- Evolução pessoal aplicada ao trabalho
-- Racionalidade e mentalidade crítica
 
 ---
 
