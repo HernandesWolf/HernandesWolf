@@ -69,11 +69,17 @@ Hoje estou focado em:
 
 ## 📁 Projetos em Destaque
 
-### 🔹 Sistema de Vendas e Estoque (SaaS)
-Sistema que desenvolvo em **Java**, com foco em pequenos negócios e vendedores autônomos.  
-Inclui cadastro de clientes, produtos, controle de estoque, vendas e relatórios.
+### 🔹 Sistema Inteligente de Automação Comercial e Produtividade (SIACP)
+Projeto desenvolvido em Java com foco em pequenos negócios e vendedores autônomos.
+O sistema automatiza tarefas operacionais do dia a dia — desde a coleta e organização de dados até a geração de métricas de desempenho — permitindo que o usuário reduza retrabalho e aumente sua produtividade.
 
-🔗 *Link do repositório será adicionado aqui.*
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Java](https://img.shields.io/badge/Java-17+-red)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Contribuições](https://img.shields.io/badge/contribuições-bem%20vindas-brightgreen)
+
+
+🔗 *Em breve o Link do repositório aqui.*
 
 ---
 
