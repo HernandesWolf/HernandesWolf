@@ -93,6 +93,7 @@ O sistema automatiza tarefas operacionais do dia a dia — desde a coleta e orga
 
 ## 📫 Como falar comigo
 - 💼 Linkedin: [ https://www.linkedin.com/in/jussier-ernandes  ](https://www.linkedin.com/in/hernandes-j-barboza-a455232b5/)
+- 🐦 X: https://x.com/H_Tech3
 - 🐺 GitHub draft: https://github.com/HernandesLobo   
 - 📧 Email para contato profissional: jussier30_04@hotmail.com
 - 📹 Em breve: Conteúdos no YouTube
