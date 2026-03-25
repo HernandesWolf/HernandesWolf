@@ -95,9 +95,9 @@ O sistema automatiza tarefas operacionais do dia a dia — desde a coleta e orga
 - 💼 Linkedin: https://surl.li/nyzpgj
 - 🐦 X: https://x.com/H_Tech3
 - 🐺 GitHub draft: https://github.com/HernandesLobo   
-- 📧 Email para contato profissional: jussier30_04@hotmail.com
 - 📹 YouTube: https://www.youtube.com/@HernandesFullStack
 
+- 📧 Email para contato profissional: jussier30_04@hotmail.com
 ---
 
 <p align="center">
