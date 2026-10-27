@@ -69,9 +69,17 @@ Hoje estou focado em:
 
 ## 📁 Projetos em Destaque
 
-### 🔹 Sistema Inteligente de Automação Comercial e Produtividade (SIACP)
-Projeto desenvolvido em Java com foco em pequenos negócios e vendedores autônomos.
-O sistema automatiza tarefas operacionais do dia a dia — desde a coleta e organização de dados até a geração de métricas de desempenho — permitindo que o usuário reduza retrabalho e aumente sua produtividade.
+### 🔹 StockFlow — API RESTful de Gestão de Estoque e Controle de Vendas
+API robusta desenvolvida em **Java** com **Spring Boot**, projetada para automatizar e integrar processos logísticos e comerciais de empresas. O sistema gerencia todo o ciclo de vida do inventário — desde o cadastro de produtos, fornecedores e movimentações de estoque até o processamento seguro de vendas e geração de relatórios estratégicos.
+
+#### 💡 Principais Diferenciais Técnicos:
+* **Mecanismos Anti-Duplicação (Idempotência):** Garantia de processamento único de requisições de vendas através de `Idempotency-Key`, evitando lançamentos duplicados por instabilidades de rede.
+* **Tratamento de Concorrência de Estoque:** Controle rígido de concorrência e trava em transações concorrentes para evitar *overselling* (venda de itens sem saldo real disponível).
+* **Valoração e Relatórios:** Cálculo em tempo real da valoração do estoque, métricas de faturamento e relatórios dos produtos mais vendidos.
+* **Segurança & Autenticação:** Arquitetura protegida por tokens **JWT** com controle de acesso baseado em papéis de usuários (*RBAC*).
+* **Qualidade & DevOps:** Suíte completa de testes de integração (`JUnit 5`), conteinerização com **Docker** e **Docker Compose**, e pipeline de integração contínua (CI/CD).
+
+**Tecnologias:** `Java` • `Spring Boot` • `Spring Data JPA` • `Spring Security` • `PostgreSQL` • `Flyway` • `Docker` • `JUnit 5`
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Java](https://img.shields.io/badge/Java-17+-red)
